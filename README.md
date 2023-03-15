@@ -2,7 +2,9 @@
 
 A notes app that allows you to create and delete notes. Created using flutter and dart. Uses Google-authentication sign in. As well as uses Firebase Realtime Database.
 
-## Showcase
+## Showcase 
+![flutter simp](https://user-images.githubusercontent.com/77566307/225435882-29d00828-c478-4b7e-b8dc-e10a8ebc0ec5.gif)
+
 <img src= "https://user-images.githubusercontent.com/77566307/225432092-fde15632-d428-4e0a-8cdf-34fc62432dae.png" width="250" > <img src= https://user-images.githubusercontent.com/77566307/225432096-a3fbc85f-ff92-4ae0-935c-f5629e098d67.png width="250" >
 <img src= https://user-images.githubusercontent.com/77566307/225432107-41a6e1b7-5274-4493-8d30-0e5d35079fa9.png width="250" >
 <img src= https://user-images.githubusercontent.com/77566307/225432110-6edc38de-ac61-4f20-8b61-c645c6d19d1a.png width="250" > 
